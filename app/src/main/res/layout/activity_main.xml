@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="장보고"
+            android:textSize="36dp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/dinamicArea"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+
+        <Button
+            android:id="@+id/btn_qrScan"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="냉장고 업데이트"
+            android:textStyle="bold"
+            android:gravity="center"
+            />
+
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+                android:layout_width="match_parent"
+                android:id="@+id/swipe_layout"
+                android:layout_height="match_parent">
+
+                <ListView
+                    android:id="@+id/listview"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+    </LinearLayout>
+
+
+
+</LinearLayout>
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:gravity="top"-->
+<!--    android:orientation="vertical"-->
+<!--    tools:context=".MainActivity">-->
+
+<!--    <GridLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="horizontal">-->
+
+<!--        <TextView-->
+<!--            android:layout_width="350dp"-->
+<!--            android:layout_height="50dp"-->
+<!--            android:gravity="center"-->
+<!--            android:text="장보고"-->
+<!--            android:textSize="36dp"-->
+<!--            android:textStyle="bold" />-->
+
+<!--        <Button-->
+<!--            android:layout_width="50dp"-->
+<!--            android:layout_height="50dp" />-->
+
+<!--    </GridLayout>-->
+
+<!--    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:id="@+id/swipe_layout"-->
+<!--        android:layout_height="600dp">-->
+
+<!--        <ListView-->
+<!--            android:id="@+id/listview"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="600dp" />-->
+<!--    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>-->
+
+<!--    <Button-->
+<!--        android:id="@+id/btn_qrScan"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="냉장고 업데이트"-->
+<!--        android:textStyle="bold" />-->
+<!--</LinearLayout>-->
