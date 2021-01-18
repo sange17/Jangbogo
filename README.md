@@ -1,14 +1,25 @@
 # JangbogoApp
 
-this is the app for people who want to check on their refrigerator's statement and foods or ingredients easily by QR code
+* 이 앱은 QR 코드로 쉽게 냉장고 속의 재료나 음식들을 확인하기를 원하는 사람들을 위한 앱 입니다.
+* this is the app for people who want to check on their refrigerator's statement and foods or ingredients easily by QR code
 
-장보고(쇼핑 후 관리 앱)
+## 기술(Skills)
+---------------
+### 1. Mobile
+* JAVA(Android Studio)
 
-멋쟁이 사자들 미아콜 팀
-(건양대학교 8기 2조)
+### 2. Database
+* SQLite
 
-팀원: 신준호, 이동규, 권택상
-개발 동기
+## 기여해 주신 분들(Contributors)
+--------------------------------
+### 멋쟁이 사자들 미아콜 팀 (건양대학교 8기 2조)
+
+* [신준호](https://github.com/shinjuno123)
+* [이동규](https://github.com/DongGyu1996)
+
+## 동기(Motivation)
+-------------------
 
 자취하는 대학생으로 또는 가정의 한 사람으로 살면서 집의 냉장고 관리는 쉽지 않아 보였습니다.
 
@@ -18,7 +29,9 @@ this is the app for people who want to check on their refrigerator's statement a
 
 앱을 만들게 되었습니다.
 
-프로젝트 소개
+
+## 소개(Introduce)
+-------------------
 
 이 앱은 냉장고에 있는 식재료를 중복해서 사는 문제, 오래된 식재료의 존재 여부를 확인하여 냉장고 관리를 쉽게 할 수 있도록 도와줍니다.
 
@@ -26,7 +39,8 @@ this is the app for people who want to check on their refrigerator's statement a
 
 온/오프라인으로 장을 보았을 때 전자 영수증의(가능하다면 종이 영수증도) 큐알 코드를 스마트폰으로 인식하여 제품명, 수량, 거래일자들을 앱에 표시합니다. 표시된 내용들은 냉장고 업데이트 버튼을 통해서 냉장고에 새로운 품목들로 저장되어 고객들이 쉽게 냉장고 속 상황을 확인할 수 있습니다.
 
-기대 효과
+## 기대효과(Benefit)
+--------------------
 
 쉬운 방법으로 한 눈에 볼 수 있도록 냉장고 관리를 할 수 있습니다.
 
