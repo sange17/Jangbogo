@@ -1,4 +1,4 @@
-# JangbogoApp
+# Jangbogo
 
 * 이 앱은 QR 코드로 쉽게 냉장고 속의 재료나 음식 상태를 확인하길 원하는 분들을 위한 수 있는 앱 입니다.
 * this is the app for people who want to check on their refrigerator's statement and foods or ingredients easily by QR code
