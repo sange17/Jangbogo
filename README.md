@@ -17,27 +17,27 @@
 * [이동규](https://github.com/DongGyu1996)
 
 ## 동기(Motivation)
-
-자취하는 대학생으로 또는 가정의 한 사람으로 살면서 집의 냉장고 관리는 쉽지 않아 보였습니다.
-
-장을 본 후에 고객들을 도와줄 수 있는 서비스를 제공하면 어떨까? 라는 생각을 가지게 되었습니다.
-
-그래서 냉장고 속 세상을 지켜 주기 위한 앱, 그리고 우리가 장 볼 때 같은 물건을 사지 않도록 도와주는
-
-앱을 만들게 되었습니다.
+1. 혼자 살면서 냉장고를 관리하는 것은 쉽지 않기 때문에 도와줄 앱이 필요했습니다.
+    * Living alone and managing a refrigerator is not easy, so I needed an app to help.
+2. 장을 본 후에 품목들을 관리해 줄 서비스가 필요했습니다.
+    * After shopping, I needed a service to manage the items.
 
 ## 소개(Introduce)
-
-이 앱은 냉장고에 있는 식재료를 중복해서 사는 문제, 오래된 식재료의 존재 여부를 확인하여 냉장고 관리를 쉽게 할 수 있도록 도와줍니다.
-
-기존의 앱은 품목당 하나씩 확인하여 내용을 입력하지만 이 앱은 큐알 코드로 품목들의 내용들을 한 번에 저장할 수 있습니다.
-
-온/오프라인으로 장을 보았을 때 전자 영수증의(가능하다면 종이 영수증도) 큐알 코드를 스마트폰으로 인식하여 제품명, 수량, 거래일자들을 앱에 표시합니다. 표시된 내용들은 냉장고 업데이트 버튼을 통해서 냉장고에 새로운 품목들로 저장되어 고객들이 쉽게 냉장고 속 상황을 확인할 수 있습니다.
+1. 장을 볼 때 냉장고 속의 식재료를 중복해서 사는 문제를 해결할 수 있습니다.
+    * When shopping, you can solve the problem of buying duplicate ingredients in the refrigerator.
+2. 냉장고 속의 오래된 식재료를 확인하여 관리할 수 있습니다.
+    * You can check and manage old ingredients in the refrigerator.
+3. 제품명, 수량, 거래일자 등의 내용이 포함된 QR 코드를 영수증에 첨부하여 한 번의 인식으로 냉장고 품목 관리를 할 수 있습니다.
+    * You can manage refrigerator items with a single recognition by attaching a QR code including product name, quantity, and transaction date to the receipt.
+4. 새롭게 갱신한 품목들을 보기 쉽게 정렬해줍니다.
+    * Sorts newly updated items for easy viewing.
 
 ## 기대효과(Benefit)
-
-쉬운 방법으로 한 눈에 볼 수 있도록 냉장고 관리를 할 수 있습니다.
-
-관리가 쉬워지므로 불필요하게 버려지거나 구매하는 물품들을 줄일 수 있습니다.
-
-장을 본 후에 관리까지 해주는 서비스가 있다면 고객들도 서비스를 믿고 이용할 것입니다
+1. 모든 가정에 냉장고 관리 도우미 앱으로 존재할 수 있습니다.
+    * It can exist as a refrigerator care assistant app in any home.
+2. 오래된 품목을 관리하여 불필요하게 버려지는 물품들을 관리할 수 있습니다.
+    * By managing old items, you can manage items that are discarded unnecessarily.
+3. 새롭게 구입하는 물건이 중복되어 구매되지 않도록 도울 수 있습니다.
+    * You can help prevent duplicate purchases of newly purchased items.
+4. 불필요한 자원과 돈을 낭비하지 않을 수 있습니다.
+    * You can avoid wasting unnecessary resources and money.
