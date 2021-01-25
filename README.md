@@ -18,9 +18,9 @@
 
 ## 동기(Motivation)
 1. 혼자 살면서 냉장고를 관리하는 것은 쉽지 않기 때문에 도와줄 앱이 필요했습니다.
-    * Living alone and managing a refrigerator is not easy, so I needed an app to help.
+    * Living alone and managing a refrigerator is not easy, so We needed an app to help.
 2. 장을 본 후에 품목들을 관리해 줄 서비스가 필요했습니다.
-    * After shopping, I needed a service to manage the items.
+    * After shopping, We needed a service to manage the items.
 
 ## 소개(Introduce)
 1. 장을 볼 때 냉장고 속의 식재료를 중복해서 사는 문제를 해결할 수 있습니다.
