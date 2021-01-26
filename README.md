@@ -35,7 +35,6 @@
 <p align="center">
 <img stc="https://user-images.githubusercontent.com/73435545/105808190-a333d080-5fea-11eb-8020-561be6ad7361.PNG">
 </p>
-
 * 업데이트 버튼을 누르면 품목 정보가 들어있는 QR 코드 인식을 할 수 있고 내용이 목록에 업데이트 됩니다.
 * If you click the update button, you can recognize the QR code containing the item information and the content is updated in the list.
 
