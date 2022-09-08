@@ -11,7 +11,7 @@
 * SQLite
 
 ## 기여해 주신 분들(Contributors)
-### 멋쟁이 사자들 미아콜 팀 (건양대학교 8기 2조)
+### 멋쟁이 사자처럼 미아콜 팀 (건양대학교 8기 2조)
 
 * [신준호](https://github.com/shinjuno123)
 * [이동규](https://github.com/DongGyu1996)
